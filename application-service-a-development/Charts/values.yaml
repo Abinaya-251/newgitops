@@ -1,6 +1,6 @@
 deployment:
   image: "pradeeban1998/tailwinds-cicd"
-  tag: "latest"
+  tag: "development-v1.0-1"
   secret: regcred
 name: teamb
 service:
