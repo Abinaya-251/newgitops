@@ -1,8 +1,0 @@
-deployment:
-  image: "pradeeban1998/tailwinds-cicd"
-  tag: QA-Test-v1.0-1
-  secret: regcred
-name: teamb
-service:
-  type: LoadBalancer
-  port: 80
